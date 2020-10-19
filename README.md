@@ -1,3 +1,5 @@
+You will need a leaflet API key from https://www.mapbox.com/ (can use the default public token once you have an account). Add this key to the config.js file.
+
 # Leaflet Homework - Visualizing Data with Leaflet
 
 ## Background
